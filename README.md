@@ -15,13 +15,5 @@ Um aplicativo simples de contador feito com **React Native** e **Expo**, com bot
 - [TypeScript](https://www.typescriptlang.org/) (opcional)
 - Fonte personalizada via `expo-font`
 
-## Como rodar o projeto
-
-1. Instale as dependências:
-
-```bash
-npm install
-```
-
 ## Imagens do projeto:
 ![image](https://github.com/user-attachments/assets/7653aac7-a4ef-48e9-bd4f-10056f7db556)
